@@ -1,5 +1,5 @@
 # Theme Extension Pack for Visual Studio Code 
-Includes my favourate theme extensions.
+This pack will install following theme extensions for you:
 
 ## Working with Markdown
 
