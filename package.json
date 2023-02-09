@@ -18,7 +18,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "akamud.vscode-theme-onedark", 
     "alexandernanberg.horizon-theme-vscode", 
     "annliu.1987", 
@@ -29,6 +29,7 @@
     "Endormi.2077-theme", 
     "felipe-mendes.slack-theme", 
     "fisheva.eva-theme", 
+    "gerane.Theme-Abyss",
     "jdinhlife.gruvbox", 
     "johnpapa.winteriscoming", 
     "jprestidge.theme-material-theme", 
@@ -44,6 +45,7 @@
     "tinkertrain.theme-panda", 
     "webfreak.cute-theme", 
     "wesbos.theme-cobalt2", 
-    "whizkydee.material-palenight-theme"
+    "whizkydee.material-palenight-theme",
+    "jtan.themeRec"
   ]
 }
