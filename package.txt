@@ -1,13 +1,24 @@
-# Theme Extension Pack for Visual Studio Code 
-Includes my favourate theme extensions.
-
-## Working with Markdown
-
-## For more information
-
-* [CSC111](https://jialiangtan.github.io/vscodetutorial/)
-
-"extensionPack": [
+{
+  "name": "themepack",
+  "displayName": "themePack",
+  "description": "prerequisite themes for themeRec",
+  "version": "0.0.2",
+  "publisher": "jtan",
+  "author": {
+    "name": "Jialiang Tan",
+    "email": "jtan02@wm.edu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JialiangTan/themepack.git"
+  },
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
     "akamud.vscode-theme-onedark",
     "alexandernanberg.horizon-theme-vscode",
     "annliu.1987",
@@ -37,7 +48,5 @@ Includes my favourate theme extensions.
     "whizkydee.material-palenight-theme",
     "jtan.themeRec"
   ]
+}
 
-
-**Enjoy!**
-# themepack
