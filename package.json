@@ -3,6 +3,15 @@
   "displayName": "themePack",
   "description": "prerequisite themes for themeRec",
   "version": "0.0.1",
+  "publisher": "jtan",
+  "author": {
+    "name": "Jialiang Tan",
+    "email": "jtan02@wm.edu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JialiangTan/themepack.git"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
