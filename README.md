@@ -1,4 +1,5 @@
-# themepack README
+# Theme Extension Pack for Visual Studio Code 
+Includes my favourate theme extensions.
 
 ## Working with Markdown
 
