@@ -2,7 +2,7 @@
   "name": "themepack",
   "displayName": "themePack",
   "description": "prerequisite themes for themeRec",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "jtan",
   "author": {
     "name": "Jialiang Tan",
@@ -49,6 +49,5 @@
     "ryanolsonx.solarized",
     "championswimmer.quieter-dark-color-theme",
     "ban.quietlight-plus"
-    
   ]
 }
