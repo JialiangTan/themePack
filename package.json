@@ -18,6 +18,7 @@
   "categories": [
     "Extension Packs"
   ],
+  "icon": "closet.png",
   "extensionPack": [
     "akamud.vscode-theme-onedark",
     "alexandernanberg.horizon-theme-vscode",
