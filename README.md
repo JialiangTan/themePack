@@ -1,8 +1,8 @@
-# themePack
+# My Favorite Theme Extension Pack
 
 ## :tshirt: About themePack
 
-themePack includes more than 30 of my favorite VS Code themes:
+Includes more than 30 of my favorite VS Code themes:
 * [1987](https://marketplace.visualstudio.com/items?itemName=annliu.1987)
 * [2088](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
 * [Abyss](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Abyss)
