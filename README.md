@@ -2,10 +2,10 @@
 
 ## :tshirt: About themePack
 
-themePack includes more than 40 of my favorite VS Code themes:
-*
-*
-*
+themePack includes more than 30 of my favorite VS Code themes:
+* Report bugs
+* Design your own theme
+* Let us know your favourite theme
 
 
 <!-- This pack will install following theme extensions for you: -->
