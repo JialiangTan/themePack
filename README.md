@@ -33,6 +33,13 @@ Includes more than 30 of my favorite VS Code themes:
 * [Solarized](https://marketplace.visualstudio.com/items?itemName=ryanolsonx.solarized)
 * [Tomorrow Night Blue](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-TomorrowNightBlue)
 * [Winter Is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+* [Cyberpunk](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
+* [Yonce](https://marketplace.visualstudio.com/items?itemName=minamarkham.yonce-theme)
+* [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+* [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+* [OneDarkPro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+* [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+
 <!-- This pack will install following theme extensions for you: -->
 
 <!-- ## For more information
