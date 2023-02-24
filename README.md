@@ -38,8 +38,16 @@ Includes more than 30 of my favorite VS Code themes:
 * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 * [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 * [OneDarkPro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-* [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-
+* [nightowl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+* [TokyoNight](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+* [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
+* [Vue Theme](https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-theme)
+* [Bluloco Dark Theme](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark)
+* [Mayukai Theme](https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc)
+* [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
+* [Kary Pro Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
+* [SmoothType](https://marketplace.visualstudio.com/items?itemName=spikespaz.vscode-smoothtype)
+* [Black](https://marketplace.visualstudio.com/items?itemName=Jaakko.black)
 <!-- This pack will install following theme extensions for you: -->
 
 <!-- ## For more information
