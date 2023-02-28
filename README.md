@@ -48,6 +48,31 @@ Includes more than 30 of my favorite VS Code themes:
 * [Kary Pro Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
 * [Black](https://marketplace.visualstudio.com/items?itemName=Jaakko.black)
 * [Bluloco Light Theme](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-light)
+* [Viow Color Theme](https://marketplace.visualstudio.com/items?itemName=Youssef.viow)
+* [Kanagawa](https://marketplace.visualstudio.com/items?itemName=qufiwefefwoyn.kanagawa)
+* [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
+* [Hackers Haze](https://marketplace.visualstudio.com/items?itemName=Nuuf.theme-hackershaze)
+* [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme)
+* [Radical](https://marketplace.visualstudio.com/items?itemName=dhedgecock.radical-vscode)
+* [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic)
+* [Code Blue](https://marketplace.visualstudio.com/items?itemName=Sujan.code-blue)
+* [Hyper Term Theme](https://marketplace.visualstudio.com/items?itemName=hsnazar.hyper-term-theme)
+* [Halcyon](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
+* [Hop Light](https://marketplace.visualstudio.com/items?itemName=bubersson.theme-hop-light)
+* [1337](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-1337)
+* [Seti Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)
+* [Night Owl Black](https://marketplace.visualstudio.com/items?itemName=thedavej.night-owl-black)
+* [Firefly Pro](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly)
+* [Pop N Lock](https://marketplace.visualstudio.com/items?itemName=Luxcium.pop-n-lock-theme-vscode)
+* [Snazzy Light](https://marketplace.visualstudio.com/items?itemName=loilo.snazzy-light)
+* [Copilot Theme](https://marketplace.visualstudio.com/items?itemName=BenjaminBenais.copilot-theme)
+* [Pink Cat Boo](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
+* [Dark Low Contrast](https://marketplace.visualstudio.com/items?itemName=EvgeniyPetukhov.dark-low-contrast)
+* [Tiny Light](https://marketplace.visualstudio.com/items?itemName=luqimin.tiny-light)
+
+
+
+
 <!-- This pack will install following theme extensions for you: -->
 
 <!-- ## For more information
