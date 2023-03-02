@@ -69,8 +69,27 @@ Includes more than 30 of my favorite VS Code themes:
 * [Pink Cat Boo](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo)
 * [Dark Low Contrast](https://marketplace.visualstudio.com/items?itemName=EvgeniyPetukhov.dark-low-contrast)
 * [Tiny Light](https://marketplace.visualstudio.com/items?itemName=luqimin.tiny-light)
-
-
+* [Helium Icone](https://marketplace.visualstudio.com/items?itemName=DhyeyThumar.helium-theme)
+* [Naruto Dark](https://marketplace.visualstudio.com/items?itemName=Thomaz.preparing)
+* [Aurora X](https://marketplace.visualstudio.com/items?itemName=marqu3s.aurora-x)
+* [Bear Theme](https://marketplace.visualstudio.com/items?itemName=dahong.theme-bear)
+* [Laserwave](https://marketplace.visualstudio.com/items?itemName=jaredkent.laserwave)
+* [Cold Fusion](https://marketplace.visualstudio.com/items?itemName=ilich8086.ColdFusion)
+* [Dark Tooth](https://marketplace.visualstudio.com/items?itemName=Poorchop.theme-darktooth)
+* [Go Theme](https://marketplace.visualstudio.com/items?itemName=mikegleasonjr.theme-go)
+* [Outrun](https://marketplace.visualstudio.com/items?itemName=samrapdev.outrun)
+* [Celestial](https://marketplace.visualstudio.com/items?itemName=apvarun.celestial)
+* [LaunchBase](https://marketplace.visualstudio.com/items?itemName=maykbrito.theme-launchbase)
+* [Delphi Theme](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
+* [Night Wolf](https://marketplace.visualstudio.com/items?itemName=MaoSantaella.night-wolf)
+* [Nord Wave](https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave)
+* [Rose Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
+* [White](https://marketplace.visualstudio.com/items?itemName=arthurwhite.white)
+* [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+* [Atlantic Night](https://marketplace.visualstudio.com/items?itemName=mrpbennett.atlantic-night)
+* [Remedy](https://marketplace.visualstudio.com/items?itemName=robertrossmann.remedy)
+* [Syntax](https://marketplace.visualstudio.com/items?itemName=XephAlpha.syntax)
+* [1984](https://marketplace.visualstudio.com/items?itemName=juanmnl.vscode-theme-1984)
 
 
 <!-- This pack will install following theme extensions for you: -->
